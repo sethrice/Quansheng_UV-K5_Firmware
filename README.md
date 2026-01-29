@@ -38,17 +38,27 @@ Only stock firmwares, no mods, no alterations. If you want modified firmware rea
 | [k5_2.01.32](firmware/RT590_v2.01.32_publish.bin) | Released on [Radtel Site](https://www.radtels.com/pages/software-download) | 1.1.12           |
 | [k5_2.01.33](firmware/k5_v2.01.33_publish.bin)    | Official fw, released 2024-03-05 (**UV-K5**)                               | 1.1.12           |
 | [k5_2.01.35](firmware/K5_ms_lpf32_v2.01.35_publish.bin)    | Official fw, released 2024-07 (**UV-K5**)                         | n/a              |
+| [k5_2.01.35](firmware/k5_v2.01.35_publish.bin)    | Official fw, released 2024-11-09 (**UV-K5**)                               | n/a              |
 | [k5_2.01.36](firmware/k5_v2.01.36_publish.bin)    | Official fw, released 2025-03-20 (**UV-K5**)                               | n/a              |
+| [k5_2.01.39](firmware/k5_v2.01.39_publish (2025-09-02).bin)    | Official fw, , released 2025-09-02                            | n/a              |
 | [k5_2.01.39](firmware/k5_v2.01.39_publish.bin)    | Not released, dumped from device 2025-07-19 (**universal**) #143           | n/a              |
 | [k6_3.00.10](firmware/k6_v3.00.10_flashable.bin)  | Not released, dumped from device (**UV-K6**)                               | n/a              |
 | [k6_3.00.15](firmware/k6_v3.00.15_publish.bin)    | Official fw, released 2023-09-02 (**UV-K6**)                               | 1.1.12           |
 | [k6_3.00.17](firmware/k6_v3.00.17_publish.bin)    | Official fw, released 2024-03-05 (**UV-K6**)                               | 1.1.12           |
 | [k6_3.00.18](firmware/K6_ms_lpf32_v3.00.18_publish.bin)    | Official fw, released 2024-07 (**UV-K6**)                         | n/a              |
+| [k6_3.00.18](firmware/k6_v3.00.18_publish.bin)    | Official fw, released 2024.11.09                                           | n/a              |
 | [k6_3.00.19](firmware/k6_v3.00.19_publish.bin)    | Official fw, released 2024-03-20 (**UV-K6**)                               | n/a              |
+| [k6_3.00.22](firmware/K6_v3.00.22_publish (2025-09-02).bin)    | Official fw, released  2025.09.02                             | n/a              |
 | [k6_3.00.22](firmware/k6_v3.00.22_publish.bin)    | Not released, dump by @xufan6 2025-08-04 (**universal**) #144              | n/a              |
 | [k5_4.00.01](firmware/k5_v4.00.01_flashable.bin)  | Not released, dumped from device (**UV-5R PLUS**)                          | n/a              |
+| [k5_4.00.09](firmware/k5_v4.00.09_publish)        | Official fw, released  2025.09.02                                          | n/a              |
 | [k5_4.00.06](firmware/RT600_v4.00.06_publish.bin) | Released on [Radtel Site](https://www.radtels.com/pages/software-download) | 1.1.12           |
 | [k5_4.00.07](firmware/k5_v4.00.07_publish.bin)    | From @Andy-GM (see #117) (**UV-5R PLUS**)                                  | n/a              |
+| [k5_7.01.09](firmware/K5CHI-071 V.7.01.09.bin)    | From @Andy-GM (see #117) (**UV-5R PLUS**)                                  | n/a              |
+| [k5_7.00.11](firmware/K5ENG-071_v7.00.11_publish.bin)    | From @Andy-GM (see #117) (**UV-5R PLUS**)                                  | n/a              |
+| [k5_py030_v1.01.07](firmware/k5_py030_v1.01.07.bin)           | UV-K5 V2 Firmware v1.01.07 2025.12.04                                          | n/a              |
+| [k5_py030_v1.01.07](firmware/k5_py030_v1.02.01_publish.bin)   | UV-K5 V2 Firmware v1.02.01 2025.12.04                                          | n/a              |
+
 
 All files from table are already encoded and can be directly flashed using firmware updater V1.1.12. 
 
